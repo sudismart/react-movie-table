@@ -12,3 +12,4 @@ Installs all the required dependencies.
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+[![Run on Repl.it](https://repl.it/badge/github/sudismart/react-movie-table)](https://repl.it/github/sudismart/react-movie-table)
