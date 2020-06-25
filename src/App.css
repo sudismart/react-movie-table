@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+
+.list-item {
+  cursor: pointer;
+}
+
+.list-item:hover {
+  background: #d4d4d4;
+}
+
+.pointer-cursor{
+  cursor: pointer;
+}
